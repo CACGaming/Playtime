@@ -1,0 +1,9 @@
+name: Playtime
+main: me.arman.playtime.Main
+version: 1.0
+description: A plugin to moderate playtime
+api-version: 1.14
+authors: [arman]
+commands:
+  playtime:
+    description: Track and manage playtime
